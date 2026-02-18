@@ -1,5 +1,5 @@
 # conditional-dropdown-hivepress
-Conditional drodowns for hivepress, managable in admin 
+Conditional drodowns for hivepress, manageable in admin 
 === HivePress Conditional Fields ===
 Contributors: hivepress forum community
 Tags: hivepress, conditional fields, parent child dropdown, car make model, country city
